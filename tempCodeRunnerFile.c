@@ -1,0 +1,1 @@
+int searchindex = LinearSearch(A, size, element);
